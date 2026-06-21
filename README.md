@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=chaddad287&fontSize=90&fontColor=00ff41&animation=glitch&fontAlignY=42&desc=◈%20Software%20Developer%20◈&descAlignY=65&descSize=22&descColor=39ff14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00ff41&height=220&section=header&text=Caesar&fontSize=90&fontColor=00ff41&animation=glitch&fontAlignY=42&desc=◈%20Software%20Developer%20◈&descAlignY=65&descSize=22&descColor=39ff14" width="100%"/>
 
 <br/>
 
@@ -30,7 +30,7 @@
 </div>
 
 ```yaml
-Name     : chaddad287
+Name     : Caesar
 Role     : Software Developer
 Focus    : Full Stack · Cloud · DevOps
 Status   : [ ONLINE ] Building something cool...
@@ -87,13 +87,13 @@ Mission  : Ship clean code. Break nothing. Learn everything.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=chaddad287&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=caesarh287&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&rank_icon=github" width="48%"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaddad287&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00ff41&dates=c9d1d9&stroke=00ff41" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caesarh287&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00ff41&dates=c9d1d9&stroke=00ff41" width="48%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaddad287&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caesarh287&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&langs_count=8" width="48%"/>
 
 </div>
 
@@ -103,7 +103,7 @@ Mission  : Ship clean code. Break nothing. Learn everything.
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=chaddad287&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=caesarh287&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
 </div>
 
@@ -114,9 +114,9 @@ Mission  : Ship clean code. Break nothing. Learn everything.
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaddad287/chaddad287/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaddad287/chaddad287/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/chaddad287/chaddad287/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caesarh287/caesarh287/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caesarh287/caesarh287/output/github-contribution-grid-snake.svg"/>
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/caesarh287/caesarh287/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
 
 </div>
